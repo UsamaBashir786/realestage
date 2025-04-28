@@ -794,6 +794,7 @@
 
          <!-- Start footer section -->
          <?php include 'includes/footer.php' ?>
+
         <!-- End footer section -->
 
     </main>

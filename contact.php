@@ -2,7 +2,6 @@
 <html lang="en">
 
 
-<!-- Mirrored from risingtheme.com/html/demo-newvilla/newvilla/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Apr 2025 05:57:27 GMT -->
 <head>
   <meta charset="utf-8">
   <title>NewVilla - Contact Us</title>
@@ -258,5 +257,4 @@
   
 </body>
 
-<!-- Mirrored from risingtheme.com/html/demo-newvilla/newvilla/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Apr 2025 05:57:27 GMT -->
 </html>

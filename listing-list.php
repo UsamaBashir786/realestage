@@ -2,7 +2,6 @@
 <html lang="en">
 
 
-<!-- Mirrored from risingtheme.com/html/demo-newvilla/newvilla/listing-list.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Apr 2025 05:57:03 GMT -->
 <head>
   <meta charset="utf-8">
   <title>NewVilla - Listing List</title>
@@ -1816,5 +1815,4 @@
   
 </body>
 
-<!-- Mirrored from risingtheme.com/html/demo-newvilla/newvilla/listing-list.php by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Apr 2025 05:57:04 GMT -->
 </html>
