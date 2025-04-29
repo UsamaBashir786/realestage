@@ -695,13 +695,7 @@
                 </div>
                 <!-- dashboard container .\ -->
 
-                <!-- Start footer section -->
-                <footer class="footer footer__section">
-                    <div class="dashboard__footer--inner text-center">
-                        <p class="copyright__content mb-0">Copyright © 2024 Powered By <span>NewVilla</span>. Designed with  by <a class="copyright__content--link" target="_blank" href="https://themeforest.net/search/hooktheme">Hooktheme</a>  All Rights Reserved.</p>
-                    </div>
-                </footer>
-                <!-- End footer section -->
+                <?php include 'includes/footer.php' ?>
             </main>
         </div>
 
