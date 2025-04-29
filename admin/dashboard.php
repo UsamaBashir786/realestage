@@ -69,54 +69,15 @@
                     <ul class="offcanvas__menu_ul">
                         <li class="offcanvas__menu_li">
                             <a class="offcanvas__menu_item" href="../index.php">Home</a>
-                            <ul class="offcanvas__sub_menu">
-                                <li class="offcanvas__sub_menu_li"><a href="../index.php" class="offcanvas__sub_menu_item">Home - One</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="../index-2.php" class="offcanvas__sub_menu_item">Home - Two</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="../index-3.php" class="offcanvas__sub_menu_item">Home - Three</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="../index-4.php" class="offcanvas__sub_menu_item">Home - Four</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="../index-5.php" class="offcanvas__sub_menu_item">Home - Five</a></li>
-                            </ul>
                         </li>
                         <li class="offcanvas__menu_li">
                             <a class="offcanvas__menu_item" href="../listing.php">Listing</a>
-                            <ul class="offcanvas__sub_menu">
-                                <li class="offcanvas__sub_menu_li"><a href="../listing.php" class="offcanvas__sub_menu_item">Listing Left Sidebar</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="../listing-right-sidebar.php" class="offcanvas__sub_menu_item">Listing Right Sidebar</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="../listing.php" class="offcanvas__sub_menu_item">Listing Grig</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="../listing-list.php" class="offcanvas__sub_menu_item">Listing List</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="../listing-details.php" class="offcanvas__sub_menu_item">Listing Details</a></li>
-                            </ul>
                         </li>
-                        
-                        <li class="offcanvas__menu_li"><a class="offcanvas__menu_item" href="my-properties.php">Properties</a></li>
+                        <li class="offcanvas__menu_li">
+                            <a class="offcanvas__menu_item" href="my-properties.php">Properties</a>
+                        </li>
                         <li class="offcanvas__menu_li">
                             <a class="offcanvas__menu_item" href="dashboard.php">Dashboard</a>
-                            <ul class="offcanvas__sub_menu">
-                                <li class="offcanvas__sub_menu_li"><a href="dashboard.php" class="offcanvas__sub_menu_item">Dashboard</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="create-listing.php" class="offcanvas__sub_menu_item">Creat Listing</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="chat.php" class="offcanvas__sub_menu_item">Chats</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="my-favorites.php" class="offcanvas__sub_menu_item">My Favorites</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="my-properties.php" class="offcanvas__sub_menu_item">My Properties</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="my-package.php" class="offcanvas__sub_menu_item">My Package</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="profile.php" class="offcanvas__sub_menu_item">My Profile</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="reviews.php" class="offcanvas__sub_menu_item">Reviews</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="saved-search.php" class="offcanvas__sub_menu_item">Saved Search</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="settings.php" class="offcanvas__sub_menu_item">Setting</a></li>
-                            </ul>
-                        </li>
-                        <li class="offcanvas__menu_li"><a class="offcanvas__menu_item" href="../blog.php">News</a></li>
-                        <li class="offcanvas__menu_li">
-                            <a class="offcanvas__menu_item" href="#">Pages</a>
-                            <ul class="offcanvas__sub_menu">
-                                <li class="offcanvas__sub_menu_li"><a href="../about.php" class="offcanvas__sub_menu_item">About Us</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="../contact.php" class="offcanvas__sub_menu_item">Contact Us</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="../project.php" class="offcanvas__sub_menu_item">Project</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="../project-details.php" class="offcanvas__sub_menu_item">Project Details</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="../services-details.php" class="offcanvas__sub_menu_item">Services Details</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="../login.php" class="offcanvas__sub_menu_item">Login</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="../sign-up.php" class="offcanvas__sub_menu_item">Sing Up</a></li>
-                                <li class="offcanvas__sub_menu_li"><a href="../404.php" class="offcanvas__sub_menu_item">Error 404</a></li>
-                            </ul>
                         </li>
                     </ul>
                 </nav>
@@ -366,76 +327,18 @@
                                             <path d="M5.5 0L0 4.125V11H3.72581V8.59381C3.72581 7.64165 4.51713 6.87506 5.5 6.87506C6.48287 6.87506 7.27419 7.64165 7.27419 8.59381V11H11V4.125L5.5 0Z" fill="#16A34A"/>
                                             </svg>
                                              Home 
-                                             <svg class="menu__arrowdown--icon" xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 12 7.41">
-                                                <path  d="M16.59,8.59,12,13.17,7.41,8.59,6,10l6,6,6-6Z" transform="translate(-6 -8.59)" fill="currentColor" opacity="0.7"/>
-                                            </svg>
                                         </a>
-                                        <ul class="sub__menu">
-                                            <li class="sub__menu--items"><a href="../index.php" class="sub__menu--link">Home - One</a></li>
-                                            <li class="sub__menu--items"><a href="../index-2.php" class="sub__menu--link">Home - Two</a></li>
-                                            <li class="sub__menu--items"><a href="../index-3.php" class="sub__menu--link">Home - Three</a></li>
-                                            <li class="sub__menu--items"><a href="../index-4.php" class="sub__menu--link">Home - Four</a></li>
-                                            <li class="sub__menu--items"><a href="../index-5.php" class="sub__menu--link">Home - Five</a></li>
-                                        </ul>
                                     </li>
                                     <li class="main__menu--items">
                                         <a class="main__menu--link" href="../listing.php"> Listing 
-                                            <svg class="menu__arrowdown--icon" xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 12 7.41">
-                                                <path  d="M16.59,8.59,12,13.17,7.41,8.59,6,10l6,6,6-6Z" transform="translate(-6 -8.59)" fill="currentColor" opacity="0.7"/>
-                                            </svg>
                                         </a>  
-                                        <ul class="sub__menu">
-                                            <li class="sub__menu--items"><a href="../listing.php" class="sub__menu--link">Listing Left Sidebar</a></li>
-                                            <li class="sub__menu--items"><a href="../listing-right-sidebar.php" class="sub__menu--link">Listing Right Sidebar</a></li>
-                                            <li class="sub__menu--items"><a href="../listing.php" class="sub__menu--link">Listing Grig</a></li>
-                                            <li class="sub__menu--items"><a href="../listing-list.php" class="sub__menu--link">Listing List</a></li>
-                                            <li class="sub__menu--items"><a href="../listing-details.php" class="sub__menu--link">Listing Details</a></li>
-                                        </ul>
                                     </li>
                                     <li class="main__menu--items">
                                         <a class="main__menu--link" href="my-properties.php"> Properties </a>  
                                     </li>
                                     <li class="main__menu--items">
                                         <a class="main__menu--link" href="dashboard.php"> Dashboard 
-                                            <svg class="menu__arrowdown--icon" xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 12 7.41">
-                                                <path  d="M16.59,8.59,12,13.17,7.41,8.59,6,10l6,6,6-6Z" transform="translate(-6 -8.59)" fill="currentColor" opacity="0.7"/>
-                                            </svg>
                                         </a>  
-                                        
-                                        <ul class="sub__menu">
-                                            <li class="sub__menu--items"><a href="dashboard.php" class="sub__menu--link">Dashboard</a></li>
-                                            <li class="sub__menu--items"><a href="create-listing.php" class="sub__menu--link">Creat Listing</a></li>
-                                            <li class="sub__menu--items"><a href="chat.php" class="sub__menu--link">Chats</a></li>
-                                            <li class="sub__menu--items"><a href="my-favorites.php" class="sub__menu--link">My Favorites</a></li>
-                                            <li class="sub__menu--items"><a href="my-properties.php" class="sub__menu--link">My Properties</a></li>
-                                            <li class="sub__menu--items"><a href="my-package.php" class="sub__menu--link">My Package</a></li>
-                                            <li class="sub__menu--items"><a href="profile.php" class="sub__menu--link">My Profile</a></li>
-                                            <li class="sub__menu--items"><a href="reviews.php" class="sub__menu--link">Reviews</a></li>
-                                            <li class="sub__menu--items"><a href="saved-search.php" class="sub__menu--link">Saved Search</a></li>
-                                            <li class="sub__menu--items"><a href="settings.php" class="sub__menu--link">Setting</a></li>
-                                        </ul>
-                                    </li>
-                                    <li class="main__menu--items">
-                                        <a class="main__menu--link" href="../blog.php">News 
-                                        </a>
-                                    </li>
-                                    <li class="main__menu--items">
-                                        <a class="main__menu--link" href="#"> Pages 
-                                            <svg class="menu__arrowdown--icon" xmlns="http://www.w3.org/2000/svg" width="10" height="7" viewBox="0 0 12 7.41">
-                                                <path  d="M16.59,8.59,12,13.17,7.41,8.59,6,10l6,6,6-6Z" transform="translate(-6 -8.59)" fill="currentColor" opacity="0.7"/>
-                                            </svg>
-                                        </a>  
-                                        
-                                        <ul class="sub__menu">
-                                            <li class="sub__menu--items"><a href="../about.php" class="sub__menu--link">About Us</a></li>
-                                            <li class="sub__menu--items"><a href="../contact.php" class="sub__menu--link">Contact Us</a></li>
-                                            <li class="sub__menu--items"><a href="../project.php" class="sub__menu--link">Project</a></li>
-                                            <li class="sub__menu--items"><a href="../project-details.php" class="sub__menu--link">Project Details</a></li>
-                                            <li class="sub__menu--items"><a href="../services-details.php" class="sub__menu--link">Services Details</a></li>
-                                            <li class="sub__menu--items"><a href="../login.php" class="sub__menu--link">Login</a></li>
-                                            <li class="sub__menu--items"><a href="../sign-up.php" class="sub__menu--link">Sing Up</a></li>
-                                            <li class="sub__menu--items"><a href="../404.php" class="sub__menu--link">Error 404</a></li>
-                                        </ul>
                                     </li>
                                 </ul>
                             </nav>
