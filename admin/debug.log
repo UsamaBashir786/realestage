@@ -1,0 +1,132 @@
+Received POST data: Array
+(
+    [plan_description] => 
+    [plan_bedrooms] => 
+    [plan_bathrooms] => 
+    [plan_price] => 
+    [plan_size_prefix] => 
+    [plan_size] => 
+    [plan_image] => 
+)
+
+Received POST data: Array
+(
+    [title] => Veniam ullam quia d
+    [description] => Dolore consectetur 
+    [type] => Office
+    [custom_type] => 
+    [status] => Processing
+    [price] => 889
+    [area] => Quia laudantium ass
+    [rooms] => 4
+    [custom_rooms] => 
+    [address] => Quaerat laudantium 
+    [county_state] => Facere commodo fugia
+    [city] => Turkey
+    [neighborhood] => Provident et sit c
+    [zip] => 49620
+    [country] => Spain
+    [custom_country] => 
+    [property_id] => Non repellendus Mol
+    [area_size] => Rerum occaecat corpo
+    [size_prefix] => At quaerat corrupti
+    [land_area] => Quibusdam consequatu
+    [land_area_postfix] => Porro ea laboris qui
+    [bedrooms] => 0
+    [bathrooms] => 29
+    [garages] => 18
+    [garages_size] => Qui neque quisquam e
+    [year_built] => 1995
+    [video_url] => https://www.lataceg.co.uk
+    [virtual_tour] => https://www.sejen.us
+    [amenities] => Array
+        (
+            [0] => Swimming Pool
+            [1] => Dryer
+            [2] => Laundry
+            [3] => Gym
+            [4] => Front yard
+            [5] => Sauna
+        )
+
+    [custom_amenities] => Labore sint similiqu
+    [plan_description] => Occaecat nisi delect
+    [plan_bedrooms] => 12
+    [plan_bathrooms] => 100
+    [plan_price] => 597
+    [plan_size_prefix] => Blanditiis temporibu
+    [plan_size] => Culpa id quia exerc
+    [plan_image] => Sunt laborum Conseq
+)
+
+Inserted property with ID: 1
+Inserted 7 amenities
+Inserted floor plan
+Transaction committed successfully
+Received POST data: Array
+(
+    [address] => test
+    [county_state] => test
+    [type_location] => House
+    [city] => Spain
+    [neighborhood] => Provident et sit c
+    [zip] => 5000
+    [country] => Custom
+    [custom_country] => 
+)
+
+Received POST data: Array
+(
+    [title] => Enim do anim quos a 
+    [description] => Soluta earum quia pe
+    [type] => Office
+    [custom_type] => 
+    [status] => Processing
+    [price] => 283
+    [area] => Odit voluptas iste n
+    [rooms] => 5
+    [custom_rooms] => 
+    [address] => Molestiae doloribus 
+    [county_state] => Non esse consectetur
+    [city] => Portugal
+    [neighborhood] => Excepturi occaecat n
+    [zip] => 54562
+    [country] => Spain
+    [custom_country] => 
+    [property_id] => Cillum commodi et ni
+    [area_size] => Aperiam dolor est n
+    [size_prefix] => Ipsum porro aut lab
+    [land_area] => Quas laboris quibusd
+    [land_area_postfix] => Perspiciatis rem et
+    [bedrooms] => 0
+    [bathrooms] => 20
+    [garages] => 45
+    [garages_size] => Ipsum velit consequ
+    [year_built] => 2007
+    [video_url] => https://www.hodatedid.us
+    [virtual_tour] => https://www.gowebafo.in
+    [amenities] => Array
+        (
+            [0] => Swimming Pool
+            [1] => Outdoor Shower
+            [2] => Barbeque
+            [3] => Washer
+            [4] => Microwave
+            [5] => Dryer
+            [6] => Laundry
+        )
+
+    [custom_amenities] => Consequuntur occaeca
+    [plan_description] => Est esse itaque nobi
+    [plan_bedrooms] => 10
+    [plan_bathrooms] => 34
+    [plan_price] => 371
+    [plan_size_prefix] => Velit eum praesenti
+    [plan_size] => Velit voluptatem min
+    [plan_image] => Quo harum dolore dol
+)
+
+Inserted property with ID: 3
+Inserted 8 amenities
+Inserted floor plan
+Transaction committed successfully
